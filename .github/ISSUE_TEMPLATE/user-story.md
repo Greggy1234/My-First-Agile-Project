@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-`As a`   `I can`   `so that`
+`As a`  `I can`  `so that`
